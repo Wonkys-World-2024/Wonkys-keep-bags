@@ -1,5 +1,5 @@
 # Wonky’s Keep Bags — Dev Bag Edition
-
+Preview https://www.youtube.com/watch?v=8btIEaW6a2w&t=4s
 A customized fork of [Swkeep’s keep-bags](https://github.com/swkeep/keep-bags), based on version 2.2.0. Adds the `devbag` alongside the existing backpacks, duffle, briefcase and service bags.
 
 The Dev Bag has **50 slots** and a configured capacity of **100,000,000 grams** on ox_inventory. The item has no built-in staff permission check. Restrict how it is issued if it is intended for staff only.
